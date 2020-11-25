@@ -22,4 +22,4 @@ Kontakt ze strony partnera: marek.lewandowski@semantive.com
 
 ### Schemat działania
 
-![workflow_schema](https://github.com/azureWUT/semantiveOnAzure/blob/main/resources/cognitive-search.png)
+![workflow_schema](https://github.com/azureWUT/semantiveOnAzure/blob/main/resources/workflow_schema.png)
