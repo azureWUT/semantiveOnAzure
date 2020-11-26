@@ -23,3 +23,27 @@ Kontakt ze strony partnera: marek.lewandowski@semantive.com
 ### Schemat działania
 
 ![workflow_schema](https://github.com/azureWUT/semantiveOnAzure/blob/main/resources/workflow_schema.png)
+
+## Definicja wymagań
+### Wymagania funkcjonalne
+- Aplikacja umożliwi analizę tekstów w oparciu o analizę sentymentu (tonacji)
+- Wynikiem działania będą metadane, które zostaną utworzone na podstawie tekstu
+- Aplikacja umożliwi wprowadzanie tekstu bezpośrednio lub w postaci plików tekstowych.
+- Możliwe będzie wprowadzenie wielu plików na raz, w celu ich zbiorczej analizy pod tonacji
+- Obsługa aplikacji będzie możliwa z poziomu UI
+
+### Wymagania niefunkcjonalne
+- Aplikacja ma być przyjazna w użytkowaniu, prosta w obsłudze
+- Aplikacja będzie działać z różnymi formatami tekstu
+- Aplikacja nie będzie wymagać efektywnych zasobów internetowych, niska prędkość przesyłu danych nie powinna stanowić problemu dla ogólnego *user experience*
+
+## Wybrany tech stack
+- Node.js
+- Microsoft Power Apps
+- Azure Cognitive Search
+
+## Harmonogram
+| Data | Oczekiwany stan prac |
+| ------ | ------ |
+| 05.12.2020 | Sfinalizowane opracowanie tech stack'u wykorzystywanego w projekcie |
+| 10.12.2020 | Spotkanie z Product Ownerem -- gotowy opis funkcjonalności i analiza wstępna|
