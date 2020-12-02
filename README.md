@@ -61,13 +61,20 @@ Kontakt ze strony partnera: marek.lewandowski@semantive.com
 | 21.01.2020 | Prezentacja projektu | 
 
 ## Tasks
-- [ ] Misz
-- [ ] Test
-- [x] Przygotowanie środowiska programistycznego
-- [x] Earth (Orbit/Moon) @TheMioa
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
+### Sprint 1 (19-26.11.2020)
+- [x] Przygotowanie repozytorium projektu wraz z podstawowym readme @Maciej
+- [x] Przygotowanie schematów opisujących wykorzystywane usługi @Agata
+- [x] Definicja funkcjonalności dostarczanych przez projekt @Karolina
+- [x] Definicja stosu technologicznego wykorzystywane w projekcie
+### Sprint 2 (26.11-03.12.2020)
+- [x] Przygotowanie środowiska programistycznego w Azure Portal @Miłosz @Maciej @Krzysztof
+- [x] Przygotowanie ostatecznego schematu realizacji zadania @Agata
+- [x] Definicja zadań i harmonogramu @Maciej @Karolina
+- [ ] Przygotowanie projektu w Azure @Miłosz
+### Sprint 3 (03.12-10.12.2020)
 - [ ] Uranus
 - [ ] Neptune
-- [ ] Nagranie wideo na YouTube
+- [ ] Nagranie wideo na YouTube @Miłosz
+### Sprint 4 (10.12.2020-07.01.2021)
+- [ ] Zrobienie aplikacja
+- [ ] Zrobienie projekt dobrze
