@@ -46,10 +46,17 @@ Kontakt ze strony partnera: marek.lewandowski@semantive.com
 - Aplikacja nie będzie wymagać efektywnych zasobów internetowych, niska prędkość przesyłu danych nie powinna stanowić problemu dla ogólnego *user experience*
 
 ## Wybrany tech stack
-- Node.js
-- Microsoft Power Apps
-- Azure Cognitive Search
-
+![stack](https://github.com/azureWUT/semantiveOnAzure/blob/main/resources/stack.png)
+- Przechowywanie danych
+    - Azure Storage
+    - SQL Database
+- Warstwa obliczeniowa
+    - Ubuntu VM
+    - Azure Cognitive Services - Text Analytics
+- Frontend
+    - Microsoft Power Apps
+- Język
+    - JavaScript / NodeJS
 ## Harmonogram
 | Data | Oczekiwany stan prac |
 | ------ | ------ |
