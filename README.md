@@ -55,3 +55,14 @@ Kontakt ze strony partnera: marek.lewandowski@semantive.com
 | ------ | ------ |
 | 05.12.2020 | Sfinalizowane opracowanie tech stack'u wykorzystywanego w projekcie |
 | 10.12.2020 | Spotkanie z Product Ownerem -- gotowy opis funkcjonalności i analiza wstępna|
+
+## Tasks
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon) @themioa
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
