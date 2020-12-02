@@ -59,7 +59,7 @@ Kontakt ze strony partnera: marek.lewandowski@semantive.com
 ## Tasks
 - [ ] Mercury
 - [x] Venus
-- [x] Earth (Orbit/Moon) @themioa
+- [x] Earth (Orbit/Moon) @TheMioa
 - [x] Mars
 - [ ] Jupiter
 - [ ] Saturn
