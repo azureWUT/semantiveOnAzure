@@ -72,9 +72,12 @@ Kontakt ze strony partnera: marek.lewandowski@semantive.com
 - [x] Definicja zadań i harmonogramu @Maciej @Karolina
 - [ ] Przygotowanie projektu w Azure @Miłosz
 ### Sprint 3 (03.12-10.12.2020)
-- [ ] Uranus
-- [ ] Neptune
+- [ ] 
+### Sprint 4 (10.12.2020-24.12.2020)
+- [ ] 
+### Sprint 5 (24.12.2020-14.01.2021)
+- [ ] Przygotowanie prezentacji działającego rozwiązania w Azure
+- [ ] Przygotowanie aplikacji Power App 
+### Sprint 6 (14.01.2021-28.01.2021)
 - [ ] Nagranie wideo na YouTube @Miłosz
-### Sprint 4 (10.12.2020-07.01.2021)
-- [ ] Zrobienie aplikacja
-- [ ] Zrobienie projekt dobrze
+- [ ] Połączenie i sprawdzenie działania rozwiązania w Azure z Power App
