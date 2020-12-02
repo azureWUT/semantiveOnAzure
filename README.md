@@ -53,16 +53,21 @@ Kontakt ze strony partnera: marek.lewandowski@semantive.com
 ## Harmonogram
 | Data | Oczekiwany stan prac |
 | ------ | ------ |
-| 05.12.2020 | Sfinalizowane opracowanie tech stack'u wykorzystywanego w projekcie |
-| 10.12.2020 | Spotkanie z Product Ownerem -- gotowy opis funkcjonalności i analiza wstępna|
+| 02.12.2020 | Spotkanie analityczne 2 |
+| 03.12.2020 | P3 - Spotkanie z Product Ownerem -- gotowy opis funkcjonalności i analiza wstępna. <br> Zdefiniowane następujące elementy: <br><ul><li>item1</li><li>item2</li></ul> |
+| 10.12.2020 |  test |
+| 07.01.2020 | P4 - Q&A co do projektu |
+| 14.01.2020 | Middle checkpoint P5 |
+| 21.01.2020 | Prezentacja projektu | 
 
 ## Tasks
-- [ ] Mercury
-- [x] Venus
+- [ ] Misz
+- [ ] Test
+- [x] Przygotowanie środowiska programistycznego
 - [x] Earth (Orbit/Moon) @TheMioa
 - [x] Mars
 - [ ] Jupiter
 - [ ] Saturn
 - [ ] Uranus
 - [ ] Neptune
-- [ ] Comet Haley
+- [ ] Nagranie wideo na YouTube
