@@ -41,7 +41,7 @@ Stworzenie systemu pozwalającego na stworzenie przeszukiwalnej na bazie słów 
 
 ## Definicja wymagań
 ### Wymagania funkcjonalne
-- Aplikacja umożliwi analizę tekstów w oparciu o analizę sentymentu (tonacji)
+- Aplikacja umożliwi analizę tekstów w oparciu o analizę słów kluczowych
 - Wynikiem działania będą metadane, które zostaną utworzone na podstawie tekstu
 - Aplikacja umożliwi wprowadzanie tekstu bezpośrednio lub w postaci plików tekstowych.
 - Możliwe będzie wprowadzenie wielu plików na raz, w celu ich zbiorczej analizy pod tonacji
@@ -51,6 +51,14 @@ Stworzenie systemu pozwalającego na stworzenie przeszukiwalnej na bazie słów 
 - Aplikacja ma być przyjazna w użytkowaniu, prosta w obsłudze
 - Aplikacja będzie działać z różnymi formatami tekstu
 - Aplikacja nie będzie wymagać efektywnych zasobów internetowych, niska prędkość przesyłu danych nie powinna stanowić problemu dla ogólnego *user experience*
+
+### Azure Cognitive Skills
+- Key Phrase Extraction
+- Entity Extraction
+
+### Custom skills
+- Określanie tematyki dokumentu
+- Określanie powiązań pomiędzy organizacjami i osobami
 
 ## Wybrany tech stack
 ![stack](https://github.com/azureWUT/semantiveOnAzure/blob/main/resources/stack.png)
