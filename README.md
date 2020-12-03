@@ -34,6 +34,8 @@ Stworzenie systemu pozwalającego na stworzenie przeszukiwalnej na bazie słów 
 - [Knowledge mining with Azure cognitive search](https://azure.microsoft.com/pl-pl/resources/videos/knowledge-mining-with-azure-cognitive-search/)
 - [Semantive official website](https://semantive.com/pl/)
 - [Azure Knowledge Mining](https://azure.microsoft.com/en-us/solutions/knowledge-mining/)
+- [JavaScript Azure Cognitive Services modules](https://docs.microsoft.com/en-us/javascript/api/overview/azure/cognitive-services?view=azure-node-latest)
+- [Adding a custom skill to an Azure Cognitive Search](https://docs.microsoft.com/pl-pl/azure/search/cognitive-search-custom-skill-interface)
 
 ### Schemat działania
 
