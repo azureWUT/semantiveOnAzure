@@ -15,6 +15,9 @@ Wiele organizacji boryka się z problemem zarządzania wiedzą w organizacji. O 
 
 Kontakt ze strony partnera: marek.lewandowski@semantive.com
 
+### Główny cel projektu
+Stworzenie systemu pozwalającego na stworzenie przeszukiwalnej na bazie słów kluczowych bazy wiedzy na podstawie nieustrukturyzowanych dokumentów i publikacji zagregowanych w silosach organizacji.
+
 ### Słowniczek
 
 - Knowledge Mining –ekstrakcja wiedzy(relacji, wniosków, wzorców, itp.)z danych.
