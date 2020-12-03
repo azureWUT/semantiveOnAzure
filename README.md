@@ -60,10 +60,15 @@ Kontakt ze strony partnera: marek.lewandowski@semantive.com
 ## Harmonogram
 | Data | Oczekiwany stan prac |
 | ------ | ------ |
+| 19.11.2020 | Zapoznanie z tematami prac |
+| 25.11.2020 | Spotkanie analityczne 1 / inicjujące -- organizacja pracy |
+| 26.11.2020 | P2 - Spotkanie z koordynatorem projektów<br><ul><li>przedstawienie założeń</li><li>przekazanie podstawowego pomysłu na realizację</li></ul> |
 | 02.12.2020 | Spotkanie analityczne 2 |
-| 03.12.2020 | P3 - Spotkanie z Product Ownerem -- gotowy opis funkcjonalności i analiza wstępna. <br> Zdefiniowane następujące elementy: <br><ul><li>item1</li><li>item2</li></ul> |
-| 10.12.2020 |  test |
+| 03.12.2020 | P3 - Spotkanie z Product Ownerem -- gotowy opis funkcjonalności i analiza wstępna. <br> Zdefiniowane następujące elementy: <br><ul><li>opis funkcjonalności</li><li>architektura</li><li>stos technlogiczny</li><li>harmonogram</li></ul> |
+| 17.12.2020 | Spotkanie analityczne 3, status prjektu, Sprint 3 Retrospective |
+| 06.01.2021 | Spotkanie analityczne 4, status projektu, Sprint 4 Retrospective |
 | 07.01.2020 | P4 - Q&A co do projektu |
+| 13.01.2020 | Spotkanie analityczne 5, przygotowanie do przedtsawienia postępu prac P5 |
 | 14.01.2020 | Middle checkpoint P5 |
 | 21.01.2020 | Prezentacja projektu | 
 
@@ -73,18 +78,18 @@ Kontakt ze strony partnera: marek.lewandowski@semantive.com
 - [x] Przygotowanie schematów opisujących wykorzystywane usługi @Agata
 - [x] Definicja funkcjonalności dostarczanych przez projekt @Karolina
 - [x] Definicja stosu technologicznego wykorzystywane w projekcie
-### Sprint 2 (26.11-03.12.2020)
+### Sprint 2 (26.11-02.12.2020)
 - [x] Przygotowanie środowiska programistycznego w Azure Portal @Miłosz @Maciej @Krzysztof
 - [x] Przygotowanie ostatecznego schematu realizacji zadania @Agata
 - [x] Definicja zadań i harmonogramu @Maciej @Karolina
-- [ ] Przygotowanie projektu w Azure @Miłosz
-### Sprint 3 (03.12-10.12.2020)
+- [x] Przygotowanie projektu w Azure @Miłosz
+### Sprint 3 (03.12-17.12.2020)
+- [ ] Określenie modelu danych @Maciej
 - [ ] 
-### Sprint 4 (10.12.2020-24.12.2020)
-- [ ] 
-### Sprint 5 (24.12.2020-14.01.2021)
+### Sprint 4 (18.12.2020-06.01.2021)
 - [ ] Przygotowanie prezentacji działającego rozwiązania w Azure
 - [ ] Przygotowanie aplikacji Power App 
-### Sprint 6 (14.01.2021-28.01.2021)
+### Sprint 5 (07.01.2021-21.01.2021)
 - [ ] Nagranie wideo na YouTube @Miłosz
-- [ ] Połączenie i sprawdzenie działania rozwiązania w Azure z Power App
+- [ ] Połączenie i sprawdzenie działania rozwiązania w Azure z Power App @Team
+- [ ] Przygotowanie dokumentu podsumowującego wykonane prace @Maciej
