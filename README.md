@@ -4,7 +4,7 @@
 ## Knowledge Mining with Cognitive Services
 
 ### Team
-- Maciej Czarkowski _mczarkowski98@gmail.com_
+- Maciej Czarkowski _mczarkowski98@gmail.com_ (Team Leader)
 - Agata Rodzeń _agata.rodzen@gmail.com_
 - Krzysztof Piekarczyk _krzys@piekarczyk.eu_
 - Miłosz Wójcik _mioawoj@gmail.com_
@@ -63,13 +63,13 @@ Kontakt ze strony partnera: marek.lewandowski@semantive.com
 | 19.11.2020 | Zapoznanie z tematami prac |
 | 25.11.2020 | Spotkanie analityczne 1 / inicjujące -- organizacja pracy |
 | 26.11.2020 | P2 - Spotkanie z koordynatorem projektów<br><ul><li>przedstawienie założeń</li><li>przekazanie podstawowego pomysłu na realizację</li></ul> |
-| 02.12.2020 | Spotkanie analityczne 2 |
+| 02.12.2020 | Spotkanie analityczne 2, status projektu |
 | 03.12.2020 | P3 - Spotkanie z Product Ownerem -- gotowy opis funkcjonalności i analiza wstępna. <br> Zdefiniowane następujące elementy: <br><ul><li>opis funkcjonalności</li><li>architektura</li><li>stos technlogiczny</li><li>harmonogram</li></ul> |
 | 17.12.2020 | Spotkanie analityczne 3, status prjektu, Sprint 3 Retrospective |
 | 06.01.2021 | Spotkanie analityczne 4, status projektu, Sprint 4 Retrospective |
 | 07.01.2020 | P4 - Q&A co do projektu |
-| 13.01.2020 | Spotkanie analityczne 5, przygotowanie do przedtsawienia postępu prac P5 |
-| 14.01.2020 | Middle checkpoint P5 |
+| 13.01.2020 | Spotkanie analityczne 5, przygotowanie do przedstawienia postępu prac podczas P5 |
+| 14.01.2020 | Middle checkpoint P5 -- prezentacja postępu prac |
 | 21.01.2020 | Prezentacja projektu | 
 
 ## Tasks
@@ -84,11 +84,13 @@ Kontakt ze strony partnera: marek.lewandowski@semantive.com
 - [x] Definicja zadań i harmonogramu @Maciej @Karolina
 - [x] Przygotowanie projektu w Azure @Miłosz
 ### Sprint 3 (03.12-17.12.2020)
-- [ ] Określenie modelu danych @Maciej
-- [ ] 
+- [ ] Określenie i budowa modelu danych @Maciej
+- [ ] Realizacja kontrolerów do obsługi API Cognitive Services @Agata @Miłosz
+- [ ] Budowa serwisów obsługujących i przetwarzających uzyskiwane dane @Krzysztof @Karolina
 ### Sprint 4 (18.12.2020-06.01.2021)
+- [ ] Budowa kontrolerów do obsługi zapytań z frontendu aplikacji @Maciej @Krzysztof
+- [ ] Przygotowanie aplikacji Power App @Miłosz @Agata @Karolina
 - [ ] Przygotowanie prezentacji działającego rozwiązania w Azure
-- [ ] Przygotowanie aplikacji Power App 
 ### Sprint 5 (07.01.2021-21.01.2021)
 - [ ] Nagranie wideo na YouTube @Miłosz
 - [ ] Połączenie i sprawdzenie działania rozwiązania w Azure z Power App @Team
