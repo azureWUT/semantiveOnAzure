@@ -65,7 +65,7 @@ Kontakt ze strony partnera: marek.lewandowski@semantive.com
 | 26.11.2020 | P2 - Spotkanie z koordynatorem projektów<br><ul><li>przedstawienie założeń</li><li>przekazanie podstawowego pomysłu na realizację</li></ul> |
 | 02.12.2020 | Spotkanie analityczne 2, status projektu |
 | 03.12.2020 | P3 - Spotkanie z Product Ownerem -- gotowy opis funkcjonalności i analiza wstępna. <br> Zdefiniowane następujące elementy: <br><ul><li>opis funkcjonalności</li><li>architektura</li><li>stos technlogiczny</li><li>harmonogram</li></ul> |
-| 17.12.2020 | Spotkanie analityczne 3, status prjektu, Sprint 3 Retrospective |
+| 17.12.2020 | Spotkanie analityczne 3, status projektu, Sprint 3 Retrospective |
 | 06.01.2021 | Spotkanie analityczne 4, status projektu, Sprint 4 Retrospective |
 | 07.01.2020 | P4 - Q&A co do projektu |
 | 13.01.2020 | Spotkanie analityczne 5, przygotowanie do przedstawienia postępu prac podczas P5 |
@@ -86,6 +86,7 @@ Kontakt ze strony partnera: marek.lewandowski@semantive.com
 - [x] Przygotowanie projektu w Azure @Miłosz
 ### Sprint 3 (03.12-17.12.2020)
 - [ ] Określenie i budowa modelu danych @Maciej
+- [ ] Przygotowanie bazy danych do pracy, zgodnie z ustaleniami z 03.12 @Miłosz
 - [ ] Realizacja kontrolerów do obsługi API Cognitive Services @Agata @Miłosz
 - [ ] Budowa serwisów obsługujących i przetwarzających uzyskiwane dane @Krzysztof @Karolina
 ### Sprint 4 (18.12.2020-06.01.2021)
