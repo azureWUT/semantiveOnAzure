@@ -1,0 +1,6 @@
+"use strict";
+
+const { TextAnalyticsClient, AzureKeyCredential } = require("@azure/ai-text-analytics");
+
+const key = '795f93105b2246e19efa71ea4b8be768';
+const endpoint = 'https://analizatekstufree.cognitiveservices.azure.com/';
