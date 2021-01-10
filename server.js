@@ -1,4 +1,3 @@
-const e = require('express')
 const express = require('express')
 const app = express()
 const port = process.env.PORT
@@ -35,7 +34,8 @@ app.get('/', (req, res) => {
 })
 
 app.get('/test', async (req, res) => {
-    res.json(await entityRecognition);
+    const stuff = await entityRecognition(textAnalyticsClient);
+    res.json(stuff);
 })
 
 app.listen(port, () => {
