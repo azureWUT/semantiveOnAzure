@@ -59,7 +59,7 @@ Stworzenie systemu pozwalającego na stworzenie przeszukiwalnej na bazie słów 
 - Entity Extraction
 
 ### Custom skills
-- Określanie tematyki dokumentu
+- Bing search
 - Określanie powiązań pomiędzy organizacjami i osobami
 
 ## Wybrany tech stack
