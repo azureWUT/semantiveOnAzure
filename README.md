@@ -104,12 +104,12 @@ Stworzenie systemu pozwalającego na stworzenie przeszukiwalnej na bazie słów 
 - [ ] Przygotowanie bazy danych do pracy, zgodnie z ustaleniami z 03.12 @Miłosz
 - [ ] Realizacja kontrolerów do obsługi API Cognitive Services @Agata @Miłosz
 - [ ] Budowa serwisów obsługujących i przetwarzających uzyskiwane dane @Krzysztof @Karolina
-### Sprint 4 (18.12.2020-06.01.2021)
+### Sprint 4 (18.12.2020-20.01.2021)
 - [ ] Budowa kontrolerów do obsługi zapytań z frontendu aplikacji @Maciej @Krzysztof
 - [ ] Przygotowanie aplikacji Power App @Miłosz @Agata @Karolina
 - [ ] Przygotowanie prezentacji działającego rozwiązania w Azure
-### Sprint 5 (07.01.2021-21.01.2021)
+### Sprint 5 (21.01.2021-28.01.2021)
 - [ ] Nagranie wideo na YouTube @Miłosz
-- [ ] Połączenie i sprawdzenie działania rozwiązania w Azure z Power App @Team
+- [ ] Poprawienie elementów frontendowych @Team
 - [ ] Przygotowanie dokumentu podsumowującego wykonane prace @Maciej
 - [ ] Testy aplikacji @Krzysztof @Agata @Karolina
