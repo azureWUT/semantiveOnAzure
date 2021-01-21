@@ -63,7 +63,6 @@ Stworzenie systemu pozwalającego na stworzenie przeszukiwalnej na bazie słów 
 - Określanie powiązań pomiędzy organizacjami i osobami
 
 ## Wybrany tech stack
-![stack](https://github.com/azureWUT/semantiveOnAzure/blob/main/resources/stack.png)
 - Przechowywanie danych
     - Azure Storage
     - SQL Database
