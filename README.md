@@ -64,15 +64,14 @@ Stworzenie systemu pozwalającego na stworzenie przeszukiwalnej na bazie słów 
 
 ## Wybrany tech stack
 - Przechowywanie danych
-    - Azure Storage
-    - SQL Database
+    - Azure Storage Blob
 - Warstwa obliczeniowa
-    - Ubuntu VM
     - Azure Cognitive Services - Text Analytics
+    - Azure Function App - Custom skills
 - Frontend
     - Microsoft Power Apps
 - Język
-    - JavaScript / NodeJS
+    - C#/Python
 ## Harmonogram
 | Data | Oczekiwany stan prac |
 | ------ | ------ |
