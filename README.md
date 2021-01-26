@@ -39,7 +39,7 @@ Stworzenie systemu pozwalającego na stworzenie przeszukiwalnej na bazie słów 
 
 ### Schemat działania
 
-![workflow_schema](https://github.com/azureWUT/semantiveOnAzure/blob/main/resources/workflow_schema.png)
+![workflow_schema](https://github.com/azureWUT/semantiveOnAzure/blob/main/resources/workflow_schema_1.1.png)
 
 ## Definicja wymagań
 ### Wymagania funkcjonalne
@@ -59,7 +59,7 @@ Stworzenie systemu pozwalającego na stworzenie przeszukiwalnej na bazie słów 
 - Entity Extraction
 
 ### Custom skills
-- Określanie tematyki dokumentu
+- Bing search
 - Określanie powiązań pomiędzy organizacjami i osobami
 
 ## Wybrany tech stack
@@ -83,10 +83,10 @@ Stworzenie systemu pozwalającego na stworzenie przeszukiwalnej na bazie słów 
 | 17.12.2020 | Spotkanie analityczne 3, status projektu, Sprint 3 Retrospective |
 | 06.01.2021 | Spotkanie analityczne 4, status projektu, Sprint 4 Retrospective |
 | 07.01.2020 | P4 - Q&A co do projektu |
-| 13.01.2020 | Spotkanie analityczne 5, przygotowanie do przedstawienia postępu prac podczas P5 |
-| 14.01.2020 | Middle checkpoint P5 -- prezentacja postępu prac |
-| 19.01.2020 | Wdrożenie aplikacji |
-| 21.01.2020 | Prezentacja projektu | 
+| 13.01.2020 | Spotkanie analityczne 5, stworzenie Azure Functions do Custom Skills |
+| 19.01.2020 | Testy aplikacji z wykorzystaniem plików Medical Journal |
+| 21.01.2020 | Middle-checkpoint 2 |
+| 28.01.2020 | Prezentacja projektu | 
 
 ## Tasks
 ### Sprint 1 (19-26.11.2020)
@@ -100,16 +100,16 @@ Stworzenie systemu pozwalającego na stworzenie przeszukiwalnej na bazie słów 
 - [x] Definicja zadań i harmonogramu @Maciej @Karolina
 - [x] Przygotowanie projektu w Azure @Miłosz
 ### Sprint 3 (03.12-17.12.2020)
-- [ ] Określenie i budowa modelu danych @Maciej
-- [ ] Przygotowanie bazy danych do pracy, zgodnie z ustaleniami z 03.12 @Miłosz
-- [ ] Realizacja kontrolerów do obsługi API Cognitive Services @Agata @Miłosz
-- [ ] Budowa serwisów obsługujących i przetwarzających uzyskiwane dane @Krzysztof @Karolina
-### Sprint 4 (18.12.2020-06.01.2021)
-- [ ] Budowa kontrolerów do obsługi zapytań z frontendu aplikacji @Maciej @Krzysztof
-- [ ] Przygotowanie aplikacji Power App @Miłosz @Agata @Karolina
-- [ ] Przygotowanie prezentacji działającego rozwiązania w Azure
-### Sprint 5 (07.01.2021-21.01.2021)
+- [x] Określenie i budowa modelu danych @Maciej
+- [x] Przygotowanie magzynu danych do pracy, zgodnie z ustaleniami z 03.12 @Miłosz @Karolina
+- [x] Wczytanie danych testowych @Agata @Miłosz
+- [x] Budowa usługi Azure CognitiveSearch obsługującej wczytywane dane @Miłosz @Krzysztof
+### Sprint 4 (18.12.2020-20.01.2021)
+- [x] Budowa kontrolerów do obsługi zapytań z frontendu aplikacji @Maciej @Krzysztof
+- [x] Przygotowanie aplikacji DemoApp @Miłosz @Agata @Karolina
+- [x] Przygotowanie prezentacji działającego rozwiązania w Azure @Team
+### Sprint 5 (21.01.2021-28.01.2021)
 - [ ] Nagranie wideo na YouTube @Miłosz
-- [ ] Połączenie i sprawdzenie działania rozwiązania w Azure z Power App @Team
+- [ ] Poprawienie elementów frontendowych @Team
 - [ ] Przygotowanie dokumentu podsumowującego wykonane prace @Maciej
 - [ ] Testy aplikacji @Krzysztof @Agata @Karolina
