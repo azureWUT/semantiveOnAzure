@@ -3,8 +3,11 @@
 
 ## Knowledge Mining with Cognitive Services
 
-### App repo
+### App repo (UI with connection to Azure)
 https://github.com/azureWUT/vue-cogni
+
+### App link
+https://red-bay-0f31c3d03.azurestaticapps.net/
 
 ### Team
 - Maciej Czarkowski _mczarkowski98@gmail.com_ (Team Leader)
