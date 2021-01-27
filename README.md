@@ -48,7 +48,7 @@ Stworzenie systemu pozwalającego na stworzenie przeszukiwalnej na bazie słów 
 
 ### Schemat działania
 
-![workflow_schema](https://github.com/azureWUT/semantiveOnAzure/blob/main/resources/workflow_schema_1.1.png)
+![workflow_schema](https://github.com/azureWUT/semantiveOnAzure/blob/main/resources/workflow_schema_1.1.jpg)
 
 ## Definicja wymagań
 ### Wymagania funkcjonalne
