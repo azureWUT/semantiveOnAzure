@@ -3,6 +3,9 @@
 
 ## Knowledge Mining with Cognitive Services
 
+### App repo
+https://github.com/azureWUT/vue-cogni
+
 ### Team
 - Maciej Czarkowski _mczarkowski98@gmail.com_ (Team Leader)
 - Agata Rodzeń _agata.rodzen@gmail.com_
