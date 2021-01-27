@@ -9,6 +9,9 @@ https://github.com/azureWUT/vue-cogni
 ### App link
 https://red-bay-0f31c3d03.azurestaticapps.net/
 
+### Video link
+https://www.youtube.com/watch?v=W4_-ROpOKxw
+
 ### Team
 - Maciej Czarkowski _mczarkowski98@gmail.com_ (Team Leader)
 - Agata Rodzeń _agata.rodzen@gmail.com_
@@ -115,7 +118,7 @@ Stworzenie systemu pozwalającego na stworzenie przeszukiwalnej na bazie słów 
 - [x] Przygotowanie aplikacji DemoApp @Miłosz @Agata @Karolina
 - [x] Przygotowanie prezentacji działającego rozwiązania w Azure @Team
 ### Sprint 5 (21.01.2021-28.01.2021)
-- [ ] Nagranie wideo na YouTube @Miłosz
-- [ ] Poprawienie elementów frontendowych @Team
-- [ ] Przygotowanie dokumentu podsumowującego wykonane prace @Maciej
-- [ ] Testy aplikacji @Krzysztof @Agata @Karolina
+- [x] Nagranie wideo na YouTube @Miłosz
+- [x] Poprawienie elementów frontendowych @Team
+- [x] Przygotowanie dokumentu podsumowującego wykonane prace @Maciej
+- [x] Testy aplikacji @Krzysztof @Agata @Karolina
